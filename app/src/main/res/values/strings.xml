@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">HADDAD FATEH - IOTApp</string>
+    <string name="btActiverBT">Activer BT</string>
+    <string name="btDesactiverBT">Désactiver BT</string>
+    <string name="rationaleBTConnectTitle">Demande de permission</string>
+    <string name="rationaleBTConnectDesc">La permission BLUETOOTH_CONNECT est nécessaire pour pouvoir activer et désactiver le Bluetooth</string>
+    <string name="rationaleBTScanTitle">Demande de permission</string>
+    <string name="rationaleBTScanDesc">La permission BLUETOOTH_CONNECT est nécessaire pour pouvoir activer et désactiver le Bluetooth</string>
+    <string name="start_search">Rechercher</string>
+    <string name="Disconnect">Déconnecter</string>
+    <string name="delete">Supprimer</string>
+    <string name="pair">Appairer</string>
+    <string name="devices_list">Liste des appareils détectés</string>
+    <string name="stop_search">Arreter la recherche</string>
+    <string name="debug_section">Debug information will appear here</string>
+
+</resources>
